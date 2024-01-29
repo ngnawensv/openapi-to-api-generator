@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenAPI generated server
 
 Spring Boot Server
@@ -19,3 +20,7 @@ You can view the api documentation in swagger-ui by pointing to
 http://localhost:8080/swagger-ui.html
 
 Change default port value in application.properties
+=======
+# openapi-to-api-generator
+This API is fully generated using OpenAPI/Swagger specification yaml file
+>>>>>>> ec24ea892c71a2ad66dcf4a6a8e1ee6700fb2dc9
